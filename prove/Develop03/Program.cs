@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Console.Clear();
+        //Console.Clear(); When uncommented, it blocks debug with exception.
         string path = @"C:/CSE210-Programming-with-Classes/cse210-projects/prove/Develop03/scriptures.txt";
         List<Scripture> scriptures = LoadScriptures(path);
         
@@ -31,7 +31,7 @@ class Program
 
         while (true)
         {
-            //Console.Clear();
+            //Console.Clear(); When uncommented, it blocks debug with exception.
             Console.WriteLine(selectedScripture.GetDisplayText());
 
             Console.WriteLine("\nPress enter to start hiding words or type 'quit' to finish it.");
