@@ -6,8 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Clear();
-        List<Scripture> scriptures = LoadScriptures("scriptures.txt");
+        //Console.Clear();
+        string path = @"C:/CSE210-Programming-with-Classes/cse210-projects/prove/Develop03/scriptures.txt";
+        List<Scripture> scriptures = LoadScriptures(path);
         
         Console.WriteLine("Choose a scripture:");
         for (int i = 0; i < scriptures.Count; i++)
@@ -30,7 +31,7 @@ class Program
 
         while (true)
         {
-            Console.Clear();
+            //Console.Clear();
             Console.WriteLine(selectedScripture.GetDisplayText());
 
             Console.WriteLine("\nPress enter to start hiding words or type 'quit' to finish it.");
