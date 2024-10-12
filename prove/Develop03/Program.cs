@@ -7,6 +7,7 @@ class Program
     static void Main(string[] args)
     {
         Console.Clear();
+        //Please replace the current filepath with that of your computer before evaluating.
         string path = @"C:/CSE210-Programming-with-Classes/cse210-projects/prove/Develop03/scriptures.txt";
         List<Scripture> scriptures = LoadScriptures(path);
         
