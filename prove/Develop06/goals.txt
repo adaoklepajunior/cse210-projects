@@ -1,0 +1,16 @@
+0
+SimpleGoal|Plant a tree|Plant a tree in your backyard|10|False
+SimpleGoal|Read a book|Read a book for 30 minutes|5|False
+SimpleGoal|Exercise|Exercise for 20 minutes|15|False
+SimpleGoal|Meditate|Meditate for 10 minutes|8|False
+SimpleGoal|Call a friend|Call a friend to catch up|12|False
+EternalGoal|Daily Prayer|Pray daily|3
+EternalGoal|Drink Water|Drink 8 cups of water|2
+EternalGoal|Sleep Well|Get 8 hours of sleep|4
+EternalGoal|Healthy Eating|Eat healthy meals|5
+EternalGoal|Gratitude Journal|Write in gratitude journal|6
+ChecklistGoal|Attend Temple|Attend the temple 6 times|20|6|0|50|False
+ChecklistGoal|Read Scriptures|Read scriptures 30 times|10|30|0|100|False
+ChecklistGoal|Family Home Evening|Hold Family Home Evening 4 times|15|4|0|30|False
+ChecklistGoal|Service Projects|Complete 5 service projects|25|5|0|75|False
+ChecklistGoal|Missionary Discussions|Have 10 missionary discussions|18|10|0|45|False

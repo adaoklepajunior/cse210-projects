@@ -1,0 +1,4 @@
+100
+EternalGoal|Read scriptures|Read any scripture for 10 minutes this day.|10
+SimpleGoal|hikiing|hike for 45 min today|30|False
+ChecklistGoal|university assignment |study at least 3 hours today|30|180|2|200|False
